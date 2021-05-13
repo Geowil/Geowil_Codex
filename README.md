@@ -128,8 +128,10 @@ The heirarchy is completely customizable.  You can name your main and subcategor
 
 ##### Configuring the category structs<br>
 Once you have established your hierarchy, you will need to modify two plugin settings from within the JS file.  You can find these by searching for the following:<br><br>
-struct~MainCats<br>
-struct~SubCats<br><br>
+```
+struct~MainCats
+struct~SubCats
+```
 
 For your sub categories, you only need to add the ones you created for you "Lore" category.  In the case of the example hierarcy above, the only thing we would need to change is to add "Lore" as a subcategory to the options list:<br>
 
