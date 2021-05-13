@@ -225,6 +225,13 @@ Example:<br>
 The brown fox jumped over the rabbit.<br><br>The rabbit ran off in fright.
 ```
 
+The above will look like this in the codex:<br><br>
+
+>The brown fox jumped over the rabbit.
+>
+>The rabbit ran off in fright.
+>
+
 More information will be added in the coming days.
 
 
