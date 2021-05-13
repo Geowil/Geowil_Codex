@@ -214,7 +214,11 @@ Override Mapping
 "{\"Weapons\" : \"Weapons\", \"Armor\" : \"Armor\", \"Accessories\" : \"Accessories\", \"Items\" : \"Items\", \"Abilities\" : \"Skills\", \"Misc:Status Effects\" : \"states\", \"History\" : \"Lore\", \"Enemies\" : \"Enemies\", \"Bestiary\" : \"Bestiary\"}"
 ```
 
-That's it.  Now you just need to create the lore entries in the plugin settings.  There are currently 114 blank emtries.  Be sure to set both categories.  If you want to include spaces in your entry text, use <br>.
+That's it.  Now you just need to create the lore entries in the plugin settings.  There are currently 114 blank entries.  Be sure to set both categories.  If you want to include white space in your entry text, use:<br><br>
+
+```
+<br>
+```
 
 More information will be added in the coming days.
 
