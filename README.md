@@ -220,6 +220,11 @@ That's it.  Now you just need to create the lore entries in the plugin settings.
 <br>
 ```
 
+Example:<br>
+```
+The brown fox jumped over the rabbit.<br><br>The rabbit ran off in fright.
+```
+
 More information will be added in the coming days.
 
 
