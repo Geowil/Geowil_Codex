@@ -8,7 +8,7 @@
 
 
 
-Demo: [Version 1.2 PR](http://www.lmpgames.com/RMMV/Plugins/Geowil_Codex_1_2_Demo.zip)<br>
+Demo: [Version 1.2 PR](http://www.lmpgames.com/RMMV/Plugins/Geowil_Codex_V1_2_Demo.zip)<br>
 Project: [Version 1.2 PR](http://www.lmpgames.com/RMMV/Plugins/Geowil_Codex_V1_2_Project.zip)<br><br>
 
 
