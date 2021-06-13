@@ -247,7 +247,7 @@ More information will be added in the coming days.
 - Added in new plugin setting to allow for easier mapping of main categories to their subcategories
 - Fixed several issues causing New/Update state of codex entries to not show
 - Recoded some of the code that processes the hierarchy for the sublist window to actually work not instead of fake working.
- - In some cases, at certain depths the lists were not being populated due to logic errors
+  - In some cases, at certain depths the lists were not being populated due to logic errors
 - Added in more help section information
 - Moved the placement of Subcategories in the plugin data entry data so that they are together
 - Made first category options also be the defaults
